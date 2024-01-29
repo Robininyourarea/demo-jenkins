@@ -8,7 +8,7 @@ pipeline {
       
       steps {
         
-        echo 'building the application
+        echo 'building the application'
         
       }
       
@@ -28,7 +28,7 @@ pipeline {
       
       steps {
         
-        scho 'deploying the application'
+        echo 'deploying the application'
         
       }
       
